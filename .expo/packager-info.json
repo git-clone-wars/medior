@@ -3,13 +3,7 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-<<<<<<< HEAD
-  "expoServerNgrokUrl": "https://zf-e9d.anonymous.medior.exp.direct",
-  "packagerNgrokUrl": "https://packager.zf-e9d.anonymous.medior.exp.direct",
-  "ngrokPid": 4022
-=======
   "expoServerNgrokUrl": null,
   "packagerNgrokUrl": null,
   "ngrokPid": null
->>>>>>> 7809a45ac32f43edc4e7c088a7cedcbf7a40e5a0
 }
